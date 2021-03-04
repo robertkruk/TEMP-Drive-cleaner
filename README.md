@@ -12,4 +12,4 @@ Tip: Run fortnightly as a scheduled task to generate report and send email to us
 
 The majority of the PS1 was written by a colleague. my contribution was the HTML emailer section and implementation on the corp file server.
 
-![](images/2021/03/Screen Shot 2021-03-04 at 10.47.08 pm.png)
+'![](/images/2021/03/ScreenShot.png)'
