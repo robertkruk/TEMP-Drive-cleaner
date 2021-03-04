@@ -1,2 +1,0 @@
-# TEMP-Drive-cleaner
-Script iterates through all files located on TEMP drive. Checks the file '.LastwriteTime' timestamp, compares it with todays day and writes list of files 'older' than 90 days to txt file with todays date. Based on this list email notifications are sent out to owners of each file  with information that old files will be deleted in 14 days time and user  should take actions if wants to preserve them.
